@@ -1,0 +1,16 @@
+PRESSING SINGLE-AGENT BUTTON -
+    1. Choose a size maze
+    2. Select a search type
+    3. Click cells to create obstacles
+    4. Set agent start and goal point
+    5. Press play to begin animation
+
+PRESSING MULTI-AGENT BUTTON -
+    1. Choose a maze size
+    2. Set the number of agents
+    3. Click cells to create obstacles
+    4. Set agents start and goal points
+    5. Press play to begin animation
+
+**NOTE**
+To randomise the search conditions, perform steps 1 and 2 for the respective search and then click the randomise button to randomly generate obstacles and agent waypoints.
