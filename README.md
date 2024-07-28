@@ -22,7 +22,7 @@ pip install PyQt5
 
 1. Clone the repository:
 ```bash
-git clone [https://gitlab.cim.rhul.ac.uk/zkac139/PROJECT.git](https://github.com/olijbrown/pyMAPF)
+git clone https://github.com/olijbrown/pyMAPF
 cd pyMAPF
 ```
 
